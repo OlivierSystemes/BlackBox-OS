@@ -1,0 +1,1 @@
+This program is designed for use on iphone in conjunction with the Pythonista iphone app.
